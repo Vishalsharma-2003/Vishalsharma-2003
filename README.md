@@ -55,7 +55,7 @@ My goal is to uncover hidden patterns in business and everyday life through data
 
 ### 📬 Connect with me
 
-- [LinkedIn](#) <!-- Replace # with your LinkedIn link -->
+- [LinkedIn] <!https://www.linkedin.com/in/vishal-sharma-789340301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app-- Replace # with your LinkedIn link -->
 - [Email](mailto:vishalsharma2003@email.com) <!-- Replace with your real email -->
 
 ---
